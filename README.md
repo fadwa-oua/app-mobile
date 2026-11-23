@@ -12,21 +12,13 @@ Application mobile Flutter simulant l'interface de commande en ligne d'un restau
 
 ## Sommaire
 
-1. [Aperçu](#aperçu)
-2. [Partie I — Installation et configuration de Flutter](#partie-i--installation-et-configuration-de-flutter)
-3. [Partie II — Développement de l'application](#partie-ii--développement-de-lapplication)
-4. [Lancer le projet](#lancer-le-projet)
-5. [Conclusion et pistes d'amélioration](#conclusion-et-pistes-damélioration)
+1. [Partie I — Installation et configuration de Flutter](#partie-i--installation-et-configuration-de-flutter)
+2. [Partie II — Développement de l'application](#partie-ii--développement-de-lapplication)
+3. [Lancer le projet](#lancer-le-projet)
+4. [Conclusion et pistes d'amélioration](#conclusion-et-pistes-damélioration)
 
 ---
 
-## Aperçu
-
-| Chrome | Émulateur Pixel 7a (accueil) | Émulateur Pixel 7a (menu) |
-|:---:|:---:|:---:|
-| ![Chrome](screenshots/chrome.png) | ![Accueil](screenshots/accueil.png) | ![Menu](screenshots/menu.png) |
-
----
 
 ## Partie I — Installation et configuration de Flutter
 
