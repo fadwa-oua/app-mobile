@@ -1,4 +1,4 @@
-# 🍔 Burger Queen — Application mobile Flutter
+# Burger Queen — Application mobile Flutter
 
 Application mobile Flutter simulant l'interface de commande en ligne d'un restaurant de burgers. Elle présente les différentes catégories du menu : burgers, accompagnements, boissons et desserts.
 
@@ -10,17 +10,17 @@ Application mobile Flutter simulant l'interface de commande en ligne d'un restau
 
 ---
 
-## 📑 Sommaire
+## Sommaire
 
-1. [Aperçu](#-aperçu)
-2. [Partie I — Installation et configuration de Flutter](#-partie-i--installation-et-configuration-de-flutter)
-3. [Partie II — Développement de l'application](#-partie-ii--développement-de-lapplication)
-4. [Lancer le projet](#-lancer-le-projet)
-5. [Conclusion et pistes d'amélioration](#-conclusion-et-pistes-damélioration)
+1. [Aperçu](#aperçu)
+2. [Partie I — Installation et configuration de Flutter](#partie-i--installation-et-configuration-de-flutter)
+3. [Partie II — Développement de l'application](#partie-ii--développement-de-lapplication)
+4. [Lancer le projet](#lancer-le-projet)
+5. [Conclusion et pistes d'amélioration](#conclusion-et-pistes-damélioration)
 
 ---
 
-## 📱 Aperçu
+## Aperçu
 
 | Chrome | Émulateur Pixel 7a (accueil) | Émulateur Pixel 7a (menu) |
 |:---:|:---:|:---:|
@@ -28,7 +28,7 @@ Application mobile Flutter simulant l'interface de commande en ligne d'un restau
 
 ---
 
-## 🧰 Partie I — Installation et configuration de Flutter
+## Partie I — Installation et configuration de Flutter
 
 Flutter est un framework open-source de Google qui permet de créer des applications mobiles (Android et iOS), web et desktop à partir d'un unique code source écrit en **Dart**. Cette partie décrit l'installation de l'environnement sous **Windows**.
 
@@ -84,7 +84,7 @@ Version utilisée : **Android Studio Panda 4 (2025.3.4 Patch 1)**. Prévoir au m
 - **Android Studio :** `File → Settings → Plugins → Marketplace` → rechercher « Flutter » (Dart Code / Google)
 - **VS Code :** panneau Extensions (`Ctrl+Shift+X`) → rechercher « Flutter » (extension officielle vérifiée ✓)
 
-### ✅ Récapitulatif
+### Récapitulatif
 
 - Flutter SDK extrait dans `C:\src\flutter`
 - Variables d'environnement PATH configurées
@@ -95,7 +95,7 @@ Version utilisée : **Android Studio Panda 4 (2025.3.4 Patch 1)**. Prévoir au m
 
 ---
 
-## 🍔 Partie II — Développement de l'application
+## Partie II — Développement de l'application
 
 ### Objectif pédagogique
 
@@ -174,7 +174,7 @@ Les deux tests ont été concluants : toutes les images se chargent et la mise e
 
 ---
 
-## 🚀 Lancer le projet
+## Lancer le projet
 
 ```bash
 # 1. Cloner le dépôt
@@ -189,7 +189,7 @@ flutter run -d chrome     # test rapide sur Chrome
 flutter run               # émulateur / appareil Android connecté
 ```
 
-## 📂 Structure du projet
+## Structure du projet
 
 ```
 burger_queen/
@@ -204,7 +204,7 @@ burger_queen/
 
 ---
 
-## 🔭 Conclusion et pistes d'amélioration
+## Conclusion et pistes d'amélioration
 
 Ce TP couvre tout le cycle de développement Flutter : de la configuration de l'environnement au déploiement d'une application fonctionnelle sur émulateur Android, en passant par la gestion des assets via `pubspec.yaml`, l'architecture en widgets composables et le système de mise en page flexible de Flutter.
 
@@ -216,7 +216,7 @@ Pistes pour aller plus loin :
 - Authentification utilisateur (Firebase Auth, JWT)
 - Publication sur Google Play Store et App Store
 
-## 👩‍💻 Auteures
+## Auteures
 
 - **Zineb Laarousi**
 - **Fadwa Ouarchane**
